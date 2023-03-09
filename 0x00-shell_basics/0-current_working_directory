@@ -1,2 +1,2 @@
 #!/bin/bash
-$DIR_PATH
+$ realpath 0-current_working_directory

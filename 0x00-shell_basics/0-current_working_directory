@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /tmp/correction/3727002664193277633906934376299692277847_5/205/332966/0x00-shell_basics
+dir=$(PWD)
